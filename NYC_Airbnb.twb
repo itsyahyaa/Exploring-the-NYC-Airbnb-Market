@@ -894,11 +894,11 @@
       <size sizing-mode='automatic' />
       <zones>
         <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
-          <zone h='65744' id='12' param='horz' type-v2='layout-flow' w='98892' x='554' y='884'>
-            <zone h='65744' id='10' type-v2='layout-basic' w='98892' x='554' y='884'>
-              <zone h='19004' id='19' is-fixed='true' type-v2='layout-basic' w='98892' x='554' y='884'>
-                <zone h='19004' id='3' param='vert' type-v2='layout-flow' w='26800' x='554' y='884'>
-                  <zone forceUpdate='true' h='4088' id='21' type-v2='text' w='26800' x='554' y='884'>
+          <zone h='65742' id='12' param='horz' type-v2='layout-flow' w='98892' x='554' y='884'>
+            <zone h='65742' id='10' type-v2='layout-basic' w='98892' x='554' y='884'>
+              <zone h='19002' id='19' is-fixed='true' type-v2='layout-basic' w='98892' x='554' y='884'>
+                <zone h='19002' id='3' param='vert' type-v2='layout-flow' w='26799' x='554' y='884'>
+                  <zone forceUpdate='true' h='4088' id='21' type-v2='text' w='26799' x='554' y='884'>
                     <formatted-text>
                       <run fontalignment='1' fontcolor='#e70000' fontname='Arial Black' fontsize='15'>Exploring the NYC Airbnb Market</run>
                     </formatted-text>
@@ -909,7 +909,7 @@
                       <format attr='margin' value='4' />
                     </zone-style>
                   </zone>
-                  <zone h='14916' id='18' is-scaled='1' param='/Users/yahyamohamed/Downloads/florian-wehde-J6mySj3wntg-unsplash.jpg' type-v2='bitmap' w='26800' x='554' y='4972'>
+                  <zone h='14914' id='18' is-scaled='1' param='/Users/yahyamohamed/Downloads/florian-wehde-J6mySj3wntg-unsplash.jpg' type-v2='bitmap' w='26799' x='554' y='4972'>
                     <zone-style>
                       <format attr='border-color' value='#000000' />
                       <format attr='border-style' value='none' />
@@ -918,8 +918,8 @@
                     </zone-style>
                   </zone>
                 </zone>
-                <zone h='19004' id='20' param='horz' type-v2='layout-flow' w='72092' x='27354' y='884'>
-                  <zone fixed-size='319' h='19004' id='6' is-fixed='true' name='Sheet 7' w='22645' x='27354' y='884'>
+                <zone h='19002' id='20' param='horz' type-v2='layout-flow' w='72093' x='27353' y='884'>
+                  <zone fixed-size='319' h='19002' id='6' is-fixed='true' name='Sheet 7' w='22645' x='27353' y='884'>
                     <layout-cache type-h='fixed' type-w='cell' />
                     <zone-style>
                       <format attr='border-color' value='#000000' />
@@ -928,7 +928,7 @@
                       <format attr='margin' value='4' />
                     </zone-style>
                   </zone>
-                  <zone h='19004' id='7' name='Sheet 5' w='23131' x='49999' y='884'>
+                  <zone h='19002' id='7' name='Sheet 5' w='23132' x='49998' y='884'>
                     <layout-cache cell-count-w='1' type-h='fixed' type-w='cell' />
                     <zone-style>
                       <format attr='border-color' value='#000000' />
@@ -937,7 +937,7 @@
                       <format attr='margin' value='4' />
                     </zone-style>
                   </zone>
-                  <zone fixed-size='372' h='19004' id='5' is-fixed='true' name='Sheet 6' w='26316' x='73130' y='884'>
+                  <zone fixed-size='372' h='19002' id='5' is-fixed='true' name='Sheet 6' w='26316' x='73130' y='884'>
                     <layout-cache cell-count-h='1' non-cell-size-h='43' type-h='cell' type-w='cell' />
                     <zone-style>
                       <format attr='border-color' value='#000000' />
@@ -948,7 +948,7 @@
                   </zone>
                 </zone>
               </zone>
-              <zone h='46740' id='8' name='Sheet 1' w='30538' x='554' y='19888'>
+              <zone h='46740' id='8' name='Sheet 1' w='30536' x='554' y='19886'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -956,7 +956,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='46740' id='9' name='Sheet 2' w='38920' x='31092' y='19888'>
+              <zone h='46740' id='9' name='Sheet 2' w='38920' x='31090' y='19886'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -964,7 +964,7 @@
                   <format attr='margin' value='4' />
                 </zone-style>
               </zone>
-              <zone h='46740' id='17' name='Sheet 3' w='29434' x='70012' y='19888'>
+              <zone h='46740' id='17' name='Sheet 3' w='29436' x='70010' y='19886'>
                 <zone-style>
                   <format attr='border-color' value='#000000' />
                   <format attr='border-style' value='none' />
@@ -974,7 +974,7 @@
               </zone>
             </zone>
           </zone>
-          <zone h='32488' id='16' name='Sheet 4' w='98892' x='554' y='66628'>
+          <zone h='32490' id='16' name='Sheet 4' w='98892' x='554' y='66626'>
             <zone-style>
               <format attr='border-color' value='#000000' />
               <format attr='border-style' value='none' />
@@ -994,9 +994,9 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1800' minheight='1800' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='23' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98232' id='22' param='vert' type-v2='layout-flow' w='98892' x='554' y='884'>
-                <zone forceUpdate='true' h='4088' id='21' type-v2='text' w='26800' x='554' y='884'>
+            <zone h='100000' id='25' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98232' id='24' param='vert' type-v2='layout-flow' w='98892' x='554' y='884'>
+                <zone forceUpdate='true' h='4088' id='21' type-v2='text' w='26799' x='554' y='884'>
                   <formatted-text>
                     <run fontalignment='1' fontcolor='#e70000' fontname='Arial Black' fontsize='15'>Exploring the NYC Airbnb Market</run>
                   </formatted-text>
@@ -1008,7 +1008,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='144' h='19004' id='6' is-fixed='true' name='Sheet 7' w='22645' x='27354' y='884'>
+                <zone fixed-size='144' h='19002' id='6' is-fixed='true' name='Sheet 7' w='22645' x='27353' y='884'>
                   <layout-cache type-h='fixed' type-w='cell' />
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1018,7 +1018,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='144' h='19004' id='7' is-fixed='true' name='Sheet 5' w='23131' x='49999' y='884'>
+                <zone fixed-size='144' h='19002' id='7' is-fixed='true' name='Sheet 5' w='23132' x='49998' y='884'>
                   <layout-cache cell-count-w='1' type-h='fixed' type-w='cell' />
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1028,7 +1028,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='144' h='19004' id='5' is-fixed='true' name='Sheet 6' w='26316' x='73130' y='884'>
+                <zone fixed-size='144' h='19002' id='5' is-fixed='true' name='Sheet 6' w='26316' x='73130' y='884'>
                   <layout-cache cell-count-h='1' non-cell-size-h='43' type-h='cell' type-w='cell' />
                   <zone-style>
                     <format attr='border-color' value='#000000' />
@@ -1038,7 +1038,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='111' h='14916' id='18' is-fixed='true' is-scaled='1' param='/Users/yahyamohamed/Downloads/florian-wehde-J6mySj3wntg-unsplash.jpg' type-v2='bitmap' w='26800' x='554' y='4972'>
+                <zone fixed-size='111' h='14914' id='18' is-fixed='true' is-scaled='1' param='/Users/yahyamohamed/Downloads/florian-wehde-J6mySj3wntg-unsplash.jpg' type-v2='bitmap' w='26799' x='554' y='4972'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1047,7 +1047,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46740' id='8' is-fixed='true' name='Sheet 1' w='30538' x='554' y='19888'>
+                <zone fixed-size='280' h='46740' id='8' is-fixed='true' name='Sheet 1' w='30536' x='554' y='19886'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1056,7 +1056,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46740' id='9' is-fixed='true' name='Sheet 2' w='38920' x='31092' y='19888'>
+                <zone fixed-size='280' h='46740' id='9' is-fixed='true' name='Sheet 2' w='38920' x='31090' y='19886'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1065,7 +1065,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='280' h='46740' id='17' is-fixed='true' name='Sheet 3' w='29434' x='70012' y='19888'>
+                <zone fixed-size='280' h='46740' id='17' is-fixed='true' name='Sheet 3' w='29436' x='70010' y='19886'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
@@ -1074,7 +1074,7 @@
                     <format attr='padding' value='0' />
                   </zone-style>
                 </zone>
-                <zone fixed-size='252' h='32488' id='16' is-fixed='true' name='Sheet 4' w='98892' x='554' y='66628'>
+                <zone fixed-size='252' h='32490' id='16' is-fixed='true' name='Sheet 4' w='98892' x='554' y='66626'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
                     <format attr='border-style' value='none' />
